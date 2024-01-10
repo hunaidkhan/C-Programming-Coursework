@@ -1,0 +1,2 @@
+total 1.0K
+drwx------ 5 khan19 khan19 5 Sep 11 09:41 CMPUT201
